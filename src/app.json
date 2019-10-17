@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/huansuan/main",
     "pages/search/main",
     "pages/guzhang/main",
     "pages/home/main",
