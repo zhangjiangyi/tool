@@ -1,6 +1,6 @@
 {
   "pages": [
-    "pages/huansuan/main",
+    "pages/regist/main",
     "pages/search/main",
     "pages/guzhang/main",
     "pages/home/main",
@@ -21,14 +21,14 @@
       {
         "pagePath": "pages/home/main",
         "text": "首页",
-        "iconPath": "static/images/icon_tabbar_home@3x.png",
-        "selectedIconPath": "static/images/icon_tabbar_home_selected@3x.png"
+        "iconPath": "static/icon/home_0.png",
+        "selectedIconPath": "static/icon/home_1.png"
       },
       {
         "pagePath": "pages/user/main",
         "text": "我的",
-        "iconPath": "static/images/icon_tabbar_mine@3x.png",
-        "selectedIconPath": "static/images/icon_tabbar_mine_selected@3x.png"
+        "iconPath": "static/icon/user_0.png",
+        "selectedIconPath": "static/icon/user_1.png"
       }
     ]
   }
